@@ -1,5 +1,5 @@
 ---
-title: *Frostpunk* y la política en el videojuego
+title: "*Frostpunk* y la política en el videojuego"
 date: 2024-11-3
 image: /images/frostpunk.png
 image-alt: Imagen de Frostpunk. En el juego, esta imagen sale cuando los exploradores llegan a Invernia por primera vez. Podemos ver a dos exploradores llegando a la ciudad de Invernia, que encuentran en ruinas. Uno de los exploradores está de rodillas, abatido. El generador, la torre que proporciona calor y energía a la ciudad, ha explotado. En el fondo podemos ver multitud de edificios en ruinas. Todo está cubierto de nieve.
