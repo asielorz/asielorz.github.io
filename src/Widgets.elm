@@ -384,7 +384,7 @@ blockQuote paragraphs =
             paragraphs
 
 
-markdownImage : { src : String, alt : String, title : Maybe String } -> Element msg
+markdownImage : { src : String, alt : String, title : Maybe String } -> UI.Element msg
 markdownImage { src, alt, title } =
     let
         base : UI.Element msg
