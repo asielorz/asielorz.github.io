@@ -298,7 +298,6 @@ markdownRenderer =
         , codeBlock = codeBlock
         , codeSpan = codeSpan
         , blockQuote = blockQuote
-        , image = markdownImage
     }
 
 
@@ -382,26 +381,6 @@ blockQuote paragraphs =
             , UI_Border.color Colors.blockQuoteLeftBar
             ]
             paragraphs
-
-
-markdownImage : { src : String, alt : String, title : Maybe String } -> UI.Element msg
-markdownImage { src, alt, title } =
-    let
-        base : UI.Element msg
-        base =
-            UI.image
-                [ UI.centerX ]
-                { src = src, description = alt }
-
-        withTitle : String -> UI.Element msg
-        withTitle t =
-            UI.column [ UI.spacingXY 0 8 ]
-                [ base
-                , UI.el [ UI.centerX ] <| UI.text t
-                ]
-    in
-    Maybe.map withTitle title
-        |> Maybe.withDefault base
 
 
 type alias MarkdownParserError =
