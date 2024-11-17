@@ -6,12 +6,16 @@ image-alt: "Pantallazo de un tuit. El autor es Alex Blechnan @AlexBlechnan. El t
 tags:
   informática
   programación
-  desarrollo-de-videojuegos
   comedia
 ---
 Un chiste que me he encontrado ya varias veces por internet es el que se cuenta en el tuit que encabeza este artículo. El chiste se basa en la intuición de que saber qué cosas son fáciles de programar y cuáles son difíciles es difícil para un profano. Una de las iteraciones más famosas de este chiste es [este xkcd](https://xkcd.com/1425/). Si este chiste se repite tanto es porque a nivel superficial resuena con experiencias que hemos tenido. Sin embargo, creo que puede ser interesante darle otra vuelta de tuerca. Tal vez la intuición del diseñador sobre cuánto trabajo lleva algo no está tan errada y es la respuesta del programador la que se está dejando cosas.
 
-[![Cómic de Xkcd. A la izquierda vemos a un hombre de pie. Entendemos que es el diseñador del producto. A la derecha vemos a una mujer sentada en el ordenador. Entendemos que es la programadora. Diseñador: "When a user takes a photo, the app should check whether they're in a national park..." Programadora: "Sure, easy GIS lookup. Gimme a few hours." Diseñador: "... and check whether the photo is of a bird." Programadora: "I'll need a research team and five years." Pie de imagen: "In CS, it can be hard to explain the difference between the easy and the virtually impossible."](https://imgs.xkcd.com/comics/tasks.png)](https://xkcd.com/1425/)
+[![Cómic de Xkcd. A la izquierda vemos a un hombre de pie. Entendemos que es el diseñador del producto. A la derecha vemos a una mujer sentada en el ordenador. Entendemos que es la programadora.
+Diseñador: When a user takes a photo, the app should check whether they're in a national park...
+Programadora: Sure, easy GIS lookup. Gimme a few hours.
+Diseñador: ...and check whether the photo is of a bird.
+Programadora: I'll need a research team and five years.
+Pie de imagen: In CS, it can be hard to explain the difference between the easy and the virtually impossible.](https://imgs.xkcd.com/comics/tasks.png)](https://xkcd.com/1425/)
 
 Vamos a centrarnos en la versión concreta del tuit con el demonio y la bufanda. Y vamos a hacer una de las cosas menos graciosas que existen en este planeta: explicar un chiste. Asumiendo un oyente programador, la gracia está en que el oyente reconoce que la tarea del demonio consiste en un script de gameplay bastante simple en el que se crea el objeto bajo tierra, se crean un par de objetos más para las partículas y y efectos de sonido de la explosión de lava y se reproduce la animación del demonio de salir de bajo tierra mientras se eleva su posición hasta dejarlo sobre el suelo. Por otro lado, se reconoce que el código necesario para la bufanda consiste en una compleja simulación física en la que la bufanda se dobla, sigue los movimientos del personaje y ondea al viento sin atravesar otros objetos. Esto crea una disonancia con lo vistosas que son ambas tareas y el trabajo que lleva programarlas. La del demonio sería un momento espectacular y memorable del juego mientras que seguramente muchos jugadores ni se den cuenta de que el jugador lleva bufanda. En esa disonancia entre percepción y cantidad de trabajo está la gracia.
 

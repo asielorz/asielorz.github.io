@@ -224,6 +224,7 @@ postBannerImage attributes image_url alt_text =
         ([ UI.width UI.fill
          , UI.htmlAttribute <| Html.Attributes.style "aspect-ratio" "750 / 250"
          , UI.htmlAttribute <| Html.Attributes.style "flex-basis" "auto"
+         , UI.htmlAttribute <| Html.Attributes.title (alt_text |> Maybe.withDefault "")
          , UI_Border.rounded 10
          , UI.clip
          ]
@@ -394,6 +395,7 @@ imageMarkdown { src, alt, title } =
             , Html.Attributes.style "display" "block"
             , Html.Attributes.style "margin-left" "auto"
             , Html.Attributes.style "margin-right" "auto"
+            , Html.Attributes.title alt
             ] []
             |> UI.html
 
