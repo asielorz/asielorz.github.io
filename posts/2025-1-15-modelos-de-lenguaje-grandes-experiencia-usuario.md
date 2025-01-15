@@ -1,6 +1,6 @@
 ---
-title: La razón instrumental y el té
-date: 2024-12-2
+title: Los modelos de lenguaje grandes y la experiencia de usuario
+date: 2025-1-15
 image: /images/picard-earl-grey.png
 image-alt: "Fotograma de Star Trek en el que vemos a Jean-Luc Picard tomando una taza de té earl grey."
 tags:
