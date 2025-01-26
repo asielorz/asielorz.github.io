@@ -1,5 +1,5 @@
 ---
-title: *Wicked* y la construcción de lo malvado
+title: "*Wicked* y la construcción de lo malvado"
 date: 2025-1-26
 image: /images/wicked.png
 image-alt: "Fotograma de Wicked. En primer plano vemos a la protagonista, la Malvada Bruja del Oeste. Lleva un vestido negro y un sombrero negro puntiagudo de bruja, que se sale del plano por arriba. Por las manos se ajusta el sombrero. Mira a cámara de manera algo ominosa. A sus espaldas hay gente vestida de fiesta, con trajes de colores brillantes. Todos la miran. Están algo desenfocados por el efecto de profundidad de campo."
