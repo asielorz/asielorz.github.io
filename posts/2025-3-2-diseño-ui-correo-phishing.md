@@ -1,0 +1,22 @@
+---
+title: "El diseño de UI de muchos clientes de correo electrónico facilita el *phishing*"
+date: 2025-3-2
+image: /images/gmail.png
+image-alt: "Pantallazo de la UI de Gmail. Hay 54 mensajes sin leer de la bandeja de entrada. Ninguno de los mensajes dice nada trascendente ni comprometedor porque es una imagen promocional."
+tags:
+  informática
+  diseño-de-ux
+---
+El *phishing* es un tipo de estafa por internet que consiste en hacerse pasar por otra persona o empresa para conseguir que alguien haga clic, descargue archivos o introduzca datos en sitios que no debería sin saberlo. La forma más común es mediante correos electrónicos y SMS haciéndose pasar por mensajes automáticos de empresas, como bancos o empresas de reparto. Tu transferencia se ha cancelado. Haz clic aquí para arreglarlo. Tu envío no ha podido ser entregado. Haz clic aquí para programar una nueva entrega. Este tipo de mensajes.
+
+Por lo general, los mensajes suelen estar cuidadosamente diseñados para parecerse mucho a los verdaderos, con los mismos logos, tipografía y palabras. Hoy en día, la mayoría de servicios de correo electrónico tienen filtros de spam que son capaces de detectar muchos de estos correos de estafas y borrarlos automáticamente, pero no son perfectos. Algunos correos consiguen colarse por los filtros de spam y llegar hasta nuestras bandejas de entrada. Por eso, la forma más fiable de asegurarse de que un correo no es una estafa sigue siendo mirar quién lo ha enviado y asegurarse de que es la fuente auténtica y no un fraude.
+
+Desde hace mucho ya, el protocolo de email permite asignar a las cuentas de correo un nombre legible para humanos, que no es una dirección de email. De esta manera, cuando a alguien le llega un correo, le pondrá que viene de Fulanito Martínez y no de fmartinez95@gmail.com. Esto puede ayudar a hacer la bandeja de entrada más legible. Por desgracia, también facilita muchísimo hacerse pasar por otra persona. Si miramos la página de la bandeja de entrada de gmail, el espacio central está ocupado por la lista de los últimos correos recibidos, en orden de llegada. Para cada mensaje vemos el nombre del remitente, el asunto, las primeras palabras del cuerpo y la fecha. No hay rastro del email. Para poder ver la dirección que ha enviado algo tenemos que entrar al mensaje y ahí podremos ver la dirección en una esquina en letra pequeñita y gris.
+
+![Pantallazo de un email en gmail. Una flecha roja señala a la esquina superior izquierda donde se puede ver la dirección de correo del remitente en letra pequeña y gris junto al nombre en negrita](/images/correo-wallapop.png)
+
+Outlook es todavía peor. No sólo no muestra las direcciones de correo de los remitentes en la bandeja de entrada, ¡tampoco lo hace al entrar en el correo! Sigue identificando al remitente por su nombre de usuario que, recordemos, está elegido por el remitente. Para poder ver la dirección hay que poder el ratón sobre el nombre del remitente y esperar a que aparezca una ventanita emergente con la dirección.
+
+![Pantallazo de un email en outlook. A la izquierda en una columna se ve la bandeja de entrada, donde para cada correo podemos ver nombre del remitente, asunto, comienzo del cuerpo y fecha. A la derecha, ocupando la mayoría de la imagen, vemos el correo que está abierto. La parte superior la ocupa una descripción de remotente y destinatarios, donde todos ellos están identificados por nombre, no dirección. Esta parte está destacada en la imagen con un cuadrado rojo para llamar la atención de quien ve la imagen.](/images/correo-outlook.png)
+
+Este diseño, tanto de gmail como de outlook, asume que el nombre que el remitente dice que tiene siempre va a ser verdad. Que si alguien dice que se llama Amazon o Banco Santander realmente es la empresa Amazon o el Banco Santander. Es un buen diseño en un mundo en el que no existe el fraude, ya que los nombres son más legibles que las direcciones de correo, por lo que una persona se orienta más fácilmente y más rápido por una bandeja de entrada en la que los correos están identificados por nombre. Por desgracia, no vivimos en ese mundo. El fraude existe y hay un gran número de personas con intenciones delictivas haciéndose pasar por empresas. Siendo así la cosa, el diseño por el que optan los principales clientes de correo electrónico pone a sus usuarios en peligro al ocultar o restar importancia a una información crucial para su seguridad.
