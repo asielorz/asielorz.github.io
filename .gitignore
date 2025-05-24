@@ -4,3 +4,4 @@ dist/
 codegen/
 .elm-pages/
 functions/render/elm-pages-cli.js
+rss.bat
