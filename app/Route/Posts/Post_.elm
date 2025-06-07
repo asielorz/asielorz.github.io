@@ -14,6 +14,7 @@ import View exposing (View)
 import Widgets
 import MarkdownText
 import Style
+import Colors
 
 
 type alias Model =
@@ -91,13 +92,13 @@ view app _ =
         post =
             app.data
 
-        image_widget =
-            case post.header.image of
-                Nothing ->
-                    []
+        image_widget = case post.header.image of
+            Nothing -> UI.none
+            Just image_url -> Widgets.postBannerImage [] image_url post.header.image_alt
 
-                Just image_url ->
-                    [ Widgets.postBannerImage [] image_url post.header.image_alt ]
+        image_credit_widget = case post.header.image_credit of
+            Nothing -> UI.none
+            Just image_credit -> Widgets.markdownTitle image_credit
     in
     { title = MarkdownText.removeFormatting post.header.title ++ " — Asier Elorz"
     , body =
@@ -106,11 +107,12 @@ view app _ =
             , UI.width UI.fill
             ]
         <|
-            image_widget
-                ++ [ Widgets.link [] { url = "", label = UI.paragraph [ UI_Font.size Style.titleFontSize, UI_Font.bold ] [ Widgets.markdownTitle post.header.title ] }
-                   , Widgets.dateText "Publicado el " post.header.date
-                   , UI.wrappedRow [ UI.spacing 5 ] (List.map Widgets.tag post.header.tags)
-                   , UI.el [ UI.height (px 20) ] UI.none -- Dummy element to add spacing between the header and the text
-                   , UI.column [ UI.spacing Style.spacingBeetweenParagraphs, UI.width UI.fill ] <| Widgets.markdownBody post.body
-                   ]
+            [ image_widget
+            , UI.el [ UI.centerX, UI_Font.color Colors.dateText, UI_Font.size Style.smallFontSize ] image_credit_widget
+            , Widgets.link [] { url = "", label = UI.paragraph [ UI_Font.size Style.titleFontSize, UI_Font.bold ] [ Widgets.markdownTitle post.header.title ] }
+            , Widgets.dateText "Publicado el " post.header.date
+            , UI.wrappedRow [ UI.spacing 5 ] (List.map Widgets.tag post.header.tags)
+            , UI.el [ UI.height (px 20) ] UI.none -- Dummy element to add spacing between the header and the text
+            , UI.column [ UI.spacing Style.spacingBeetweenParagraphs, UI.width UI.fill ] <| Widgets.markdownBody post.body
+            ]
     }

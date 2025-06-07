@@ -5,6 +5,9 @@ import Element.Font as UI_Font exposing (Font)
 regularFontSize : Int
 regularFontSize = 20
 
+smallFontSize : Int
+smallFontSize = 16
+
 titleFontSize : Int
 titleFontSize = 25
 

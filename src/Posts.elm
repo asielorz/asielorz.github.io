@@ -28,6 +28,7 @@ type alias PostHeader =
     , description : Maybe MarkdownText
     , image : Maybe String
     , image_alt : Maybe String
+    , image_credit : Maybe MarkdownText
     }
 
 
@@ -70,13 +71,14 @@ postDecoder url body =
 
 postHeaderDecoder : String -> Json.Decode.Decoder PostHeader
 postHeaderDecoder url =
-    Json.Decode.map6 (PostHeader url)
+    Json.Decode.map7 (PostHeader url)
         (Json.Decode.map MarkdownText <| Json.Decode.field "title" Json.Decode.string)
         (Json.Decode.field "tags" tagsDecoder)
         (Json.Decode.field "date" DateTime.jsonDecode)
         (Json.Decode.maybe <| Json.Decode.map MarkdownText <| Json.Decode.field "description" Json.Decode.string)
         (Json.Decode.maybe <| Json.Decode.field "image" Json.Decode.string)
         (Json.Decode.maybe <| Json.Decode.field "image-alt" Json.Decode.string)
+        (Json.Decode.maybe <| Json.Decode.map MarkdownText <| Json.Decode.field "image-credit" Json.Decode.string)
 
 
 postPath : String -> String
