@@ -90,10 +90,18 @@ Estos son unos pocos ejemplos. El caso es que la mayoría de lenguajes que exist
 
 No hay ninguna necesidad de atar la resolución de nombres no cualificados a la sintaxis de llamada de función. Hacer eso complica el diseño del lenguaje de manera innecesaria y cierra puertas o pone palos en las ruedas a la hora de diseñar otras partes del lenguaje.
 
+## Roc tiene ideas interesantes
+
+Más adelante en el episodio, Feldman habla sobre una posible idea futura para Roc, que todavía no está implementada y que ni siquiera es seguro que vayan a añadir, pero que es muy interesante: permitir especificar el módulo del que viene una función al usar la sintaxis de función miembro.
+
+La propuesta concretamente es que si podemos hacer `objeto.función()` para llamar a una función del mismo módulo que el objeto, podamos también hacer `objeto.(Módulo.función)` para llamar a una función de otro módulo. Esta propuesta es interesante porque en la práctica es el operador pizza, pero disfrazado de sintaxis orientada a objetos. Lo importante es que permite expresar todo lo que el operador pizza puede y que ergonómicamente es parecido, con la ventaja extra de familiaridad para gente que viene de otros lenguajes de programación que usan la sintaxis de función miembro (es decir, la mayoría).
+
+Es cierto que sigue habiendo un grupo de funciones privilegiadas que pueden llamarse de forma más corta y que este conjunto es cerrado, pero la diferencia en la práctica es lo bastante pequeña como para que no importe mucho.
+
 ## Conclusiones
 
 Las funciones miembro son mayormente una mala idea. Con la perspectiva de 40 años de lenguajes que las usan, así como de alternativas que funcionan, podemos decir que los inconvenientes que aportan son evitables porque podemos lograr los mismos objetivos mediante otros medios, separando las dos cosas que se logran mediante las funciones miembro en dos elementos independientes y ortogonales: el operador pizza y la declaración `using` (o `use` o `import` o `exposing` o tu palabra clave favorita).
 
 Los únicos puntos a favor no reemplazables de las funciones miembro son la familiaridad de los programadores que ya saben usar otros lenguajes de programación y esperan encontrar algo así por costumbre y la integración de esta forma de programar en editores de texto diseñados para optimizar este caso.
 
-La decisión de Roc de adoptar esta sintaxis en lugar de favorecer el operador pizza me parece personalmente una regresión en el diseño.
+La decisión de Roc de adoptar esta sintaxis en lugar de favorecer el operador pizza personalmente me parecería una regresión en el diseño, de no ser por la idea de poder usar esa sintaxis para llamar a funciones de otros módulos también. En su día, uno de los grandes éxitos de Rust fue disfrazar conceptos de la programación funcional con sintaxis imperativa para hacerlos más apetecibles para programadores de lenguajes imperativos y orientados a objetos, como cuando se esconde la medicina en un trozo de comida para que los perros se la coman. El diseño de Roc, que en su día comenzó muy ligado a la influencia de Elm y la familia de ML, ha ido virando con el tiempo para asemejarse sintácticamente más a los lenguajes de la familia de C mientras mantiene las garantías y los significados de un lenguaje puramente funcional. Su diseño de las funciones miembro podría verse como un ejemplo más de esto.
