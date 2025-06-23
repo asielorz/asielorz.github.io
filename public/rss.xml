@@ -6,13 +6,21 @@
     <link>https://asielorz.github.io</link>
     <copyright>2024 Asier Elorz Hernáez All rights reserved</copyright>
     <language>es-es</language>
-    <lastBuildDate>Sat, 7 Jun 2025 00:00:00 +0000</lastBuildDate>    <item>
+    <lastBuildDate>Mon, 23 Jun 2025 00:00:00 +0000</lastBuildDate>    <item>
+      <title>Los rendimientos decrecientes son una consecuencia natural de cómo opera la ingeniería</title>
+      <link>https://asielorz.github.io/posts/rendimientos-decrecientes-ingenieria</link>
+      <guid>https://asielorz.github.io/posts/rendimientos-decrecientes-ingenieria</guid>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      <image>https://asielorz.github.io/images/not-stonks.png</image>
+      <description><p>Un fenómeno que me he encontrado numerosas veces a lo largo de mi carrera es la situación en la que la cantidad de beneficio que reporta una cantidad fija de trabajo disminuye a lo largo del tiempo. Al principio, poco trabajo es capaz de generar grandes beneficios. Conforme pasa el tiempo, la misma cantidad de trabajo cada vez da menos beneficios. Hacia el final, hace falta hacer muchísimo trabajo para conseguir incrementos pequeños. Estoy siendo abstracto con la definición de &quot;beneficio&quot; aposta para poder aplicar el fenómeno a muchas situaciones. Al principio me sorprendía que el mismo patrón se repitiera en tantos lugares. Con el tiempo me he dado cuenta de que esto es simplemente una consecuencia natural de cómo trabajamos.</p></description>
+    </item>
+    <item>
       <title>Las funciones miembro atan dos conceptos ortogonales</title>
       <link>https://asielorz.github.io/posts/funciones-miembro-dos-conceptos-ortogonales</link>
       <guid>https://asielorz.github.io/posts/funciones-miembro-dos-conceptos-ortogonales</guid>
       <pubDate>Sat, 7 Jun 2025 00:00:00 +0000</pubDate>
       <image>https://asielorz.github.io/images/pizza.png</image>
-      <description><p>Hace mucho tiempo que no me gusta la sintaxis de función miembro, pero hasta ahora no tenía una articulación coherente del porqué. Viendo el último episodio de <i>Software Unscripted</i>, en el que Richard Feldman y José Valim hablan sobre el tema cuando Feldman explica que Roc ha añadido esta sintaxis, por fin he llegado a una teoría completa de qué es lo que me disgusta.</p></description>
+      <description><p>Hace mucho tiempo que no me gusta la sintaxis de función miembro, pero hasta ahora no tenía una articulación coherente del porqué. Viendo el <a href="https://www.youtube.com/watch?v=yR6oHwPN7cE&t=3188s">último episodio de <i>Software Unscripted</i></a>, en el que Richard Feldman y José Valim hablan sobre el tema cuando Feldman explica que Roc ha añadido esta sintaxis, por fin he llegado a una teoría completa de qué es lo que me disgusta.</p></description>
     </item>
     <item>
       <title>Sobre la adopción de la tecnología</title>
