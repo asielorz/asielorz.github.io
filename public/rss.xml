@@ -6,7 +6,22 @@
     <link>https://asielorz.github.io</link>
     <copyright>2024 Asier Elorz Hernáez All rights reserved</copyright>
     <language>es-es</language>
-    <lastBuildDate>Thu, 10 Jul 2025 00:00:00 +0000</lastBuildDate>    <item>
+    <lastBuildDate>Wed, 30 Jul 2025 00:00:00 +0000</lastBuildDate>    <item>
+      <title>Gente normal y el tenis de media pista</title>
+      <link>https://asielorz.github.io/posts/gente-normal-tenis</link>
+      <guid>https://asielorz.github.io/posts/gente-normal-tenis</guid>
+      <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+      <image>https://asielorz.github.io/images/gente-normal.png</image>
+      <description><p>Sarah C. Payne es profesora de historia y estrategia en la Escuela de Guerra Naval de la marina de los Estados Unidos. Su trabajo consiste en enseñar historia militar y estrategia a oficiales de la marina. También tiene varias charlas y entrevistas excelentes sobre historia militar que se pueden ver en YouTube. Una idea en la que Payne insiste mucho es lo que ella llama <i>half-court tennis</i> y que yo he traducido aquí como tenis de media pista. Es el sesgo en el que un bando se limita a estudiar su historia, su punto de vista, sus logros y sus fracasos ignorando al bando enemigo. Ella argumenta que este sesgo lleva a tomar malas decisiones estratégicas porque impide prever las decisiones y reacciones del enemigo.</p></description>
+    </item>
+    <item>
+      <title>Todos somos el público de &quot;lo que sea&quot; a veces</title>
+      <link>https://asielorz.github.io/posts/lo-que-sea</link>
+      <guid>https://asielorz.github.io/posts/lo-que-sea</guid>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
+      <description><p>En un reciente artículo titulado <a href="https://eev.ee/blog/2025/07/03/the-rise-of-whatever/"><i>The rise of Whatever</i></a>, la bloguera conocida como Eevee argumenta que las redes neuronales generativas (modelos grandes de lenguaje, modelos de difusión que generan imágenes...) son especialmente buenas haciendo &quot;lo que sea&quot; (<i>whatever</i>), es decir, contenido sin intención que cumple la función de rellenar un espacio porque algo tiene que haber. Eevee explica que esto tiene sentido en el modelo de negocio del internet actual, basado en la reproducción de anuncios y la recolección de datos, que necesita maximizar la cantidad de visitas a una página pero no necesariamente la calidad o utilidad de esas visitas. Desde el punto de vista del negocio, el contenido de la página puede ser lo que sea siempre y cuando sea suficiente para atraer el tráfico necesario para generar reproducciones de anuncios y datos de uso. De un tiempo a esta parte me interesa bastante entender por qué la gente usa y quiere usar herramientas como ChatGPT, porque me parece que desestimarlas en su totalidad por sus defectos ignora que millones de personas las están usando y por lo general no me gustan los argumentos que parten de que uno es muy listo y los demás muy tontos. En enero analizábamos <a href="https://asielorz.github.io/posts/modelos-de-lenguaje-grandes-experiencia-usuario">el aspecto de la usabilidad</a> como uno de los factores fundamentales de estas herramientas. Hoy vamos a meternos de lleno en el berenjenal del contenido. ¿Por qué querríamos usar una herramienta que nos miente y nos desvía con información superficial y poco relevante?</p></description>
+    </item>
+    <item>
       <title>No será tan difícil</title>
       <link>https://asielorz.github.io/posts/no-sera-tan-dificil</link>
       <guid>https://asielorz.github.io/posts/no-sera-tan-dificil</guid>
