@@ -6,7 +6,15 @@
     <link>https://asielorz.github.io</link>
     <copyright>2024 Asier Elorz Hernáez All rights reserved</copyright>
     <language>es-es</language>
-    <lastBuildDate>Mon, 17 Nov 2025 00:00:00 +0000</lastBuildDate>    <item>
+    <lastBuildDate>Fri, 21 Nov 2025 00:00:00 +0000</lastBuildDate>    <item>
+      <title>El hackeo de Anthropic y la ventaja del atacante</title>
+      <link>https://asielorz.github.io/posts/hackeo-anthropic-ventaja-atacante</link>
+      <guid>https://asielorz.github.io/posts/hackeo-anthropic-ventaja-atacante</guid>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+      <image>https://asielorz.github.io/images/matrix.png</image>
+      <description><p>Una <a href="https://www.anthropic.com/news/disrupting-AI-espionage">reciente publicación del blog de Anthropic</a> explica cómo se han usado modelos de la empresa para llevar a cabo campañas de espionaje por un grupo presuntamente vinculado al gobierno chino. El artículo es muy interesante tanto por lo que dice como por lo que no, así que vamos a desgranarlo.</p></description>
+    </item>
+    <item>
       <title>Magnolia, el abuso y el perdón</title>
       <link>https://asielorz.github.io/posts/magnolia-y-el-abuso</link>
       <guid>https://asielorz.github.io/posts/magnolia-y-el-abuso</guid>

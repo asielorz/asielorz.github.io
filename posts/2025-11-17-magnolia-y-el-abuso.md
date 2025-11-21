@@ -2,7 +2,7 @@
 title: _Magnolia_, el abuso y el perdón
 date: 2025-11-17
 image: /images/magnolia-jim-kurring.png
-image-alt: 
+image-alt: Fotograma de la película Magnolia de Paul Thomas Anderson. Vemos un primer plano de la cara del agente de policía Jim Kurring, interpretado por John C. Reilly, de perfil. Mira ligeramente hacia abajo y tiene una cara taciturna y pensativa. Está dentro de un coche y detrás de él vemos una ventana muy sucia. Él tiene un tupido bigote y una camisa de cuadros azul y blanca.
 tags:
   cine
 ---

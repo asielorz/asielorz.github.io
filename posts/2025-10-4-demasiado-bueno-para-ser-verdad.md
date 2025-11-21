@@ -2,7 +2,7 @@
 title: «Demasiado bueno para ser verdad» es una fase de la mierdificación
 date: 2025-10-4
 image: /images/bluesky.png
-image-alt: 
+image-alt: Logotipo de Bluesky, la red social. Fondo azul celeste con letras blancas en las que se lee "Bluesky". El icono es una mariposa de color blanco en estilo de arte vectorial minimalista.
 tags:
   sociedad
 ---

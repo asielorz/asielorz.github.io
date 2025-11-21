@@ -2,7 +2,7 @@
 title: _Pure heroine_ y el efecto _Seinfield_
 date: 2025-10-2
 image: /images/pure-heroine.png
-image-alt: 
+image-alt: Carátula del disco Pure Heroine de Lorde. Fondo negro con letras blancas mayúsculas sans-serif en las que se lee el título del disco.
 tags:
   música
 ---

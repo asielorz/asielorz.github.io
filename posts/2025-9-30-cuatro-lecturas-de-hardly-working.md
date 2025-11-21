@@ -2,7 +2,7 @@
 title: Cuatro lecturas de _Hardly Working_
 date: 2025-9-30
 image: /images/hardly-working.png
-image-alt: 
+image-alt: Fotograma del cortometraje Hardly working del colectivo Total Refusal. Vemos a un NPC del videojuego Red Dead Redepmtion. Está de espaldas a la cámara y agachado. En una mano tiene un martillo y con la otra sujeta un clavo contra el suelo. Lleva unos gauntes gruesos de trabajo. Va a clavar el clavo en el suelo de tablas de madera sobre el que está. En el fondo se vislumbran unas grandes cajas de madera que parecen transportar mercancías.
 tags:
   cine
   videojuego
