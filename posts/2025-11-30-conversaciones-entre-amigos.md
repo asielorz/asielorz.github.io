@@ -8,16 +8,16 @@ tags:
 ---
 Si hay un momento clave en _Conversaciones entre amigos_ (Sally Rooney, 2017) es cuando Bobbi le dice a Frances «Tú crees que las personas que te gustan son especiales». La frase es parte de una conversación entre la protagonista y su mejor amiga, casi a los tres cuartos del libro. Frances acaba de tener un episodio de su enfermedad todavía sin diagnosticar y está sangrando. Bobbi le ha preparado la bañera, la ayuda a desvestirse y a meterse dentro. Las dos dialogan mientras a la primera se le pasa el dolor. Hablan sobre sus perspectivas de futuro. El diálogo sucede algo así:
 
-**F:** ¿Qué vas a hacer? Cuando acabemos la carrera.
-**B:** No lo sé. Trabajar en una universidad, si puedo.
-**F:** ¿Qué quieres decir con «si puedes»?
-**B:** (Silencio)
-**F:** Creía que te proponías acabar con el capitalismo global.
-**B:** Bueno, no puedo hacerlo yo sola. Alguien tiene que dedicarse a las tareas menores.
-**F:** No te veo como una persona dedicada a las tareas menores.
-**B:** Pues lo soy.
-**F:** Bueno, serás una catedrática de fama mundial. Darás clases en la Sorbona.
-**B:** No. Tú crees que las personas que te gustan son especiales. Sólo soy una persona normal. Cuando te gusta alguien, le haces sentir que es diferente del resto. Lo estás haciendo con Nick, como lo hiciste conmigo en su día.
+- **F:** ¿Qué vas a hacer? Cuando acabemos la carrera.
+- **B:** No lo sé. Trabajar en una universidad, si puedo.
+- **F:** ¿Qué quieres decir con «si puedes»?
+- **B:** (Silencio)
+- **F:** Creía que te proponías acabar con el capitalismo global.
+- **B:** Bueno, no puedo hacerlo yo sola. Alguien tiene que dedicarse a las tareas menores.
+- **F:** No te veo como una persona dedicada a las tareas menores.
+- **B:** Pues lo soy.
+- **F:** Bueno, serás una catedrática de fama mundial. Darás clases en la Sorbona.
+- **B:** No. Tú crees que las personas que te gustan son especiales. Sólo soy una persona normal. Cuando te gusta alguien, le haces sentir que es diferente del resto. Lo estás haciendo con Nick, como lo hiciste conmigo en su día.
 
 La novela está escrita en primera persona desde el punto de vista de Frances, por lo que todo lo que sabemos del mundo y sus personajes, a excepción de los diálogos literales que enuncian, nos viene filtrado por su punto de vista. Durante toda la novela el personaje de Bobbi ha sido descrito una y otra vez como alguien lleno de virtudes y cualidades. Bobbi es extremadamente guapa, inteligentísima, la más elocuente, siempre agradable al trato, el centro de atención y la favorita de todos. A lo largo de las cosa de 230 páginas que llevamos leídas hemos aprendido a ver a Bobbi a través de los ojos de Frances. La novela nos ha bombardeado con tantas y tan profusas descripciones sobre sus inagotables virtudes o poca oportunidad para contrastarlas que sin darnos cuenta pasamos a creer que es verdad y que Bobbi es realmente el personaje que las páginas describen.
 
