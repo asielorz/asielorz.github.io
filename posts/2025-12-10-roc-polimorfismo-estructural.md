@@ -1,6 +1,6 @@
 ---
-title: El modo infinito de _Frostpunk_ no es infinito
-date: 2025-12-6
+title: Roc tendrá polimorfismo estructural
+date: 2025-12-10
 tags:
   informática
   programación
