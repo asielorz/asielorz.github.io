@@ -6,7 +6,36 @@
     <link>https://asielorz.github.io</link>
     <copyright>2024 Asier Elorz Hernáez All rights reserved</copyright>
     <language>es-es</language>
-    <lastBuildDate>Sun, 14 Dec 2025 00:00:00 +0000</lastBuildDate>    <item>
+    <lastBuildDate>Wed, 11 Mar 2026 00:00:00 +0000</lastBuildDate>    <item>
+      <title>Spotify, Tidal y el efecto de red</title>
+      <link>https://asielorz.github.io/posts/spotify-tidal-efecto-de-red</link>
+      <guid>https://asielorz.github.io/posts/spotify-tidal-efecto-de-red</guid>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <description><p>Desde enero de este año dejé de usar Spotify para usar Tidal, que es otro servicio de streaming similar, con precio y funcionalidad parecidas. La idea era participar en el boicot a Spotify que busca castigar a la empresa sueca por ser la que menos paga a los músicos por escucha y por la participación de su CEO en la financiación de empresas militares israelíes. Reconozco que hice el cambio el 1 de enero para algo tan banal como poder tener el Spotify wrapped del año pasado con todos los datos del año y poder tener el de este año en Tidal de nuevo con todo lo que he escuchado durante el año. Las dos aplicaciones son bastante parecidas, las interfaces se parecen mucho, cada una tiene sus pequeñas molestias de experiencia de usuario y bugs que me tocan las narices y me costaría decir que una sea mejor que la otra como producto. Excepto por una cosa. Tidal tiene un grave problema de experiencia de usuario que les deja en gran desventaja con respecto a Spotify y en el que es difícil que puedan competir pues proveer la misma experiencia que Spotify les costaría muchísimo más dinero. ¿Por qué? Por el efecto de red.</p></description>
+    </item>
+    <item>
+      <title>Sobre hacer cosas por el placer de hacerlas</title>
+      <link>https://asielorz.github.io/posts/sobre-hacer-cosas</link>
+      <guid>https://asielorz.github.io/posts/sobre-hacer-cosas</guid>
+      <pubDate>Tue, 3 Mar 2026 00:00:00 +0000</pubDate>
+      <description><p>Recientemente he leído el artículo <a href="https://sightlessscribbles.com/posts/the-colonization-of-confidence/"><i>The Colonization of confidence</i></a> de Robert Kingett. Es un buen artículo. Léelo. Me ha dejado pensando en un par de cosas sobre las que quiero elaborar.</p></description>
+    </item>
+    <item>
+      <title>¿Por qué publicaría Anthropic una investigación que en principio les pejudica?</title>
+      <link>https://asielorz.github.io/posts/blog-anthropic</link>
+      <guid>https://asielorz.github.io/posts/blog-anthropic</guid>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      <description><p>No me esperaba que hacer comentario de texto al blog de Anthropic fuera a convertirse en un formato recurrente pero aquí estamos otra vez. Recientemente han publicado <a href="https://www.anthropic.com/research/AI-assistance-coding-skills">un paper</a> en el que estudian cómo el uso de modelos grandes de lenguaje para desarrollar software entorpece el aprendizaje mientras que no acelera significativamente el llevar a cabo la tarea. En este momento Anthropic, con su línea de modelos Claude, es el principal proveedor de modelos grandes de lenguaje para desarrollo de software, siendo este campo una de sus principales fuentes de usuarios. Por esto, resulta contraintuitivo que sean ellos quienes publiquen esta investigación que en principio contradice directamente su modelo de negocio. ¿Por qué lo hacen?</p></description>
+    </item>
+    <item>
+      <title>La falsa frustración de Dark Souls</title>
+      <link>https://asielorz.github.io/posts/dark-souls-frustracion</link>
+      <guid>https://asielorz.github.io/posts/dark-souls-frustracion</guid>
+      <pubDate>Fri, 9 Jan 2026 00:00:00 +0000</pubDate>
+      <image>https://asielorz.github.io/images/dark-souls-campana.png</image>
+      <description><p>Un argumento bastante común que suelen esgrimir los defensores acérrimos de la saga <i>Souls</i> y su dificultad es que el juego es frustrante, sí, y esa es precisamente una de sus virtudes. <i>Dark Souls</i> (2011) y sus secuelas nos enfrentan a la frustración, un sentimiento difícil, incómodo, y al hacer esto nos permiten practicar esta emoción, explorarla y prepararnos para lidiar mejor con ella en nuestras vidas. En este texto exploramos si esto es así de verdad o el videojuego de Hidetaka Miyazaki en realidad tan sólo nos provee con la ilusión de frustración.</p></description>
+    </item>
+    <item>
       <title>Roc tendrá polimorfismo estructural</title>
       <link>https://asielorz.github.io/posts/roc-polimorfismo-estructural</link>
       <guid>https://asielorz.github.io/posts/roc-polimorfismo-estructural</guid>
