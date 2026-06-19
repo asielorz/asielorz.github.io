@@ -12,6 +12,7 @@ module Widgets exposing
     , referenceSuperscript
     , referenceFootnote
     , postBannerImage
+    , warningBox
     , markdownBody
     , markdownTitle
     )
@@ -234,6 +235,15 @@ postBannerImage attributes image_url alt_text =
         , description = alt_text |> Maybe.withDefault ""
         }
 
+warningBox : MarkdownText -> UI.Element msg
+warningBox body = UI.row 
+    [ UI_Background.color Colors.warningBackground
+    , UI.width UI.fill
+    , UI_Border.rounded 10
+    , UI.paddingXY 10 10
+    , UI.spacing 10
+    ]
+    [ Fontawesome.text [ UI_Font.size 25 ] "\u{F071}" {- fa-triangle-exclamation -}, markdownTitle body ]
 
 markdownBody : MarkdownText -> List (UI.Element msg)
 markdownBody body =

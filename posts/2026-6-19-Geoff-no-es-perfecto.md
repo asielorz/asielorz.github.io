@@ -3,10 +3,11 @@ title: Geoff no es perfecto
 date: 2026-6-19
 image: /images/a-taste-of-honey.png
 image-alt: Fotograma de la película A taste of honey. Vemos a Geoff medio en sombras, escondido debajo de una escalera. Mira hacia algo fuera de plano, detrás de la cámara. Su cara está seria e intenta manterse inexpresiva pero podemos intuir tristeza.
+warning: Este texto destripa el final de la película _A taste of honey_ (Tony Richardson, 1961).
 tags:
   cine
 ---
-Este texto destripa el final de la película _A taste of honey_ (Tony Richardson, 1961). Estoy estos días explorando el free cinema inglés de los 50-60 y ayer _A taste of honey_ me dejó con ganas de escribir algo sobre ella. Es una película de la que me esperaba un final más feliz. Hasta los últimos 5 minutos la forma en la que termina me parecía inimaginable e incluso después de haberla terminado había una pregunta que me seguía rondando la cabeza y que es la que me incita a escribir esto. ¿Por qué se va Geoff?
+Estoy estos días explorando el free cinema inglés de los 50-60 y ayer _A taste of honey_ me dejó con ganas de escribir algo sobre ella. Es una película de la que me esperaba un final más feliz. Hasta los últimos 5 minutos la forma en la que termina me parecía inimaginable e incluso después de haberla terminado había una pregunta que me seguía rondando la cabeza y que es la que me incita a escribir esto. ¿Por qué se va Geoff?
 
 La pregunta no es descabellada. Jo quiere que Geoff se quede. Lo dice claramente. Geoff intuimos que quiere quedarse. Aprecia mucho a Jo y le ha cogido mucho cariño. Vive feliz en esa casa, o todo lo feliz que puede vivir, al menos. Recordemos estas palabras que le dice a Jo:
 

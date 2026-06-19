@@ -112,6 +112,7 @@ view app _ =
             , Widgets.link [] { url = "", label = UI.paragraph [ UI_Font.size Style.titleFontSize, UI_Font.bold ] [ Widgets.markdownTitle post.header.title ] }
             , Widgets.dateText "Publicado el " post.header.date
             , UI.wrappedRow [ UI.spacing 5 ] (List.map Widgets.tag post.header.tags)
+            , post.header.warning |> Maybe.map Widgets.warningBox |> Maybe.withDefault UI.none 
             , UI.el [ UI.height (px 20) ] UI.none -- Dummy element to add spacing between the header and the text
             , UI.column [ UI.spacing Style.spacingBeetweenParagraphs, UI.width UI.fill ] <| Widgets.markdownBody post.body
             ]

@@ -65,3 +65,6 @@ horizontalSeparator =
 
 blockQuoteLeftBar : UI.Color
 blockQuoteLeftBar = UI.rgba255 204 204 204 0.7
+
+warningBackground : UI.Color
+warningBackground = UI.rgb255 91 76 0

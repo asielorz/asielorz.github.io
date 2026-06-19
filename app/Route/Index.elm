@@ -108,6 +108,7 @@ viewPost post =
             ++ [ Widgets.link [ UI_Font.size Style.titleFontSize, UI_Font.bold ] { url = post.header.url, label = UI.paragraph [] [ Widgets.markdownTitle post.header.title ] }
                , UI.wrappedRow [ UI.spacing 10 ] (Widgets.dateText "" post.header.date :: List.map Widgets.tag post.header.tags)
                , UI.el [ UI.height (px 5) ] UI.none -- Dummy element to add spacing between the header and the text
+               , post.header.warning |> Maybe.map Widgets.warningBox |> Maybe.withDefault UI.none 
                , Widgets.markdownBody (Posts.description post) |> List.head |> Maybe.withDefault UI.none
                , UI.el [ UI.height (px 10) ] UI.none -- Dummy element to add spacing around the separator
                , Widgets.horizontalSeparator 1
